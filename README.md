@@ -38,8 +38,7 @@ Edit
 npx live-server
 ``` 
 🖼️ Demo
-🎥 Watch Demo Video
-🧪 Try it live: https://yourusername.github.io/note-detection-app
+🎥 Watch Demo Video-
 
 📁 Folder Structure
 bash
@@ -60,8 +59,11 @@ Tonal.js
 Web Audio API
 
 📌 Roadmap
+
  ✅Basic pitch detection
+ 
  ✅Show note + frequency
+ 
  ✅Visual frequency spectrum (FFT)
 
  
