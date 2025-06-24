@@ -11,7 +11,7 @@ This is a real-time **note detection web app** built with **JavaScript** that li
 - 🎶 Note-to-frequency mapping using **Tonal.js**
 - 📈 Shows both **note name** and **pitch frequency**
 - 👁️‍🗨️ Clean UI for real-time feedback
-- 📦 Optional: CREPE TensorFlow.js model integration for improved accuracy
+
 
 ---
 
@@ -60,15 +60,11 @@ Tonal.js
 Web Audio API
 
 📌 Roadmap
- Basic pitch detection
+ ✅Basic pitch detection
+ ✅Show note + frequency
+ ✅Visual frequency spectrum (FFT)
 
- Show note + frequency
-
- Chord detection
-
- Visual frequency spectrum (FFT)
-
- Audio recording and playback
+ 
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first.
