@@ -1,0 +1,32 @@
+body {
+    background-color: #e19191;
+
+}
+
+#all-notes {
+ 
+    padding:5px;
+    white-space: normal;
+    overflow-wrap: break-word;
+    overflow-y: scroll;
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 50%;
+}
+#note-span,#freq{
+    font-size: 125px;
+    width: 300px;
+    padding:5px;
+    margin: 5px; 
+}
+
+.noteDiv{
+    width: 75%;
+   display: flex;
+   gap: 25px;
+  /* justify-content: ; */
+}
+/* .pStyle{
+ padding: 8px;
+ margin: 10px;
+} */
